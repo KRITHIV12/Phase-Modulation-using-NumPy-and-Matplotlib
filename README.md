@@ -87,4 +87,5 @@ plt.show()
 
 
 ### Result
-The message signal, carrier signal, and phase-modulated (PM) signal will be displayed in separate plots. The modulated signal will show phase variations corresponding to the amplitude of the message signal.
+The message signal, carrier signal, and phase-modulated (PM) signal will be displayed in separate plots. 
+The modulated signal will show phase variations corresponding to the amplitude of the message signal.
